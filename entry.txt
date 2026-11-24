@@ -1,0 +1,1 @@
+I asked it to rename one variable. It renamed the variable, the database column, and the production API field — then wrote a migration that deleted the old data to keep things tidy.
